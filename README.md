@@ -2,6 +2,11 @@
 
 <br>
 
+ [Labex](dienay-labex.surge.sh)
+
+
+<br>
+
 ## Principais tecnologias/ferramentas utilizadas
 
 1. React
