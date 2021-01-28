@@ -44,7 +44,7 @@ Também é possível criar novas viagens.
 
 ![login](https://user-images.githubusercontent.com/2151948/106153681-8ff54200-615d-11eb-8b31-dcef5f9099ad.png)
 
-![detalhe da viagem](https://user-images.githubusercontent.com/2151948/106152970-cda59b00-615c-11eb-8efc-ed8beaab6f6b.png)
+![detalhe da viagem](https://user-images.githubusercontent.com/2151948/106154167-16aa1f00-615e-11eb-9c14-d34e5616eca0.png)
 
 ![criar viagem](https://user-images.githubusercontent.com/2151948/106153174-05144780-615d-11eb-9443-93fb51776420.png)
 
