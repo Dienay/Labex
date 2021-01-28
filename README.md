@@ -24,15 +24,29 @@ Desenvolver uma aplicação para viagens espaciais.
 
 ## Funcionamento
 
-#Deslogado
+![home](https://user-images.githubusercontent.com/2151948/106152929-c2526f80-615c-11eb-8aa7-785f9d25987f.png)
+
+# Deslogado
 
 Acesso a lista de viagens disponível e também é possivel acessar a página de cadidatura para concorrer a uma viagem.
 
-#Logado
+![lista de viagens](https://user-images.githubusercontent.com/2151948/106152942-c54d6000-615c-11eb-800a-fe69d3aeed4d.png)
+
+![detalhes da viagem para candidatos](https://user-images.githubusercontent.com/2151948/106152956-c9797d80-615c-11eb-8ff6-aab0b67baaf4.png)
+
+![candidatar para viagem](https://user-images.githubusercontent.com/2151948/106152985-d4341280-615c-11eb-9a50-5243118d6312.png)
+
+# Logado
 
 Logando com o email "dienay@gmail.com" e senha "123456", é liberado o acesso com privilégios de administrador.
 Com isso ao clicar em qualquer viagem da lista de viagens mostrará a lista de candidatos, com a opção de aceitar ou recusar candidatos recém cadastrados.
 Também é possível criar novas viagens.
+
+![login](https://user-images.githubusercontent.com/2151948/106153681-8ff54200-615d-11eb-8b31-dcef5f9099ad.png)
+
+![detalhe da viagem](https://user-images.githubusercontent.com/2151948/106152970-cda59b00-615c-11eb-8efc-ed8beaab6f6b.png)
+
+![criar viagem](https://user-images.githubusercontent.com/2151948/106153174-05144780-615d-11eb-9443-93fb51776420.png)
 
 <br>
 
